@@ -25,9 +25,7 @@ Users can encode or decode QR-codes.
 
 ### Downloads
 
-DNA BarID x86 (32-bit)
-
-DNA BarID x64 (64-bit)
+DNA BarID x64.exe (64-bit) - Windows installation file
 
 User Manual
 
