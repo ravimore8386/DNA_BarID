@@ -104,7 +104,7 @@ Telephone: +91-712 2249883; Fax: +91-7122243927
 
 Email: hj_purohit@neeri.res.in
 
-Please contact to Ravi More for technical queries ravipmore7@gmail.com, ravimore7@yahoo.in
+Please contact to Dr. Ravi More for technical queries ravipmore7@gmail.com, ravimore7@yahoo.in
 
 
 
