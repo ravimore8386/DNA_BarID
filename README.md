@@ -1,13 +1,16 @@
 # DNA BarID (DNA Barcode Identification)
 
-## DNA BarID (DNA Barcode Identification) is a tool for rapid taxonomic identification of nearly full length 16S rRNA sequences based on QR-codes (regular expressions). In order to taxonomic classification of 16S rRNA data, there is a need for easy-to-use computer program, containing fast computational regular expression based method.
+## DNA BarID (DNA Barcode Identification) is a tool for rapid taxonomic identification of nearly full length 16S rRNA sequences based on QR-codes (regular expressions). 
 
-## For demonstration purpose, we targeted phylum Firmicutes and dominating taxa in particular, and obtained high sensitivity and specificity of regular expressions at class, order, family and genus level.
+### About DNA BarID
+In order to taxonomic classification of 16S rRNA data, there is a need for easy-to-use computer program, containing fast computational regular expression based method.
 
-## Bacilli (Class)
-## Bacillales (Order)
-## Bacillaceae (Family)
-## Bacillus (Genus)
+### For demonstration purpose, we targeted phylum Firmicutes and dominating taxa in particular, and obtained high sensitivity and specificity of regular expressions at class, order, family and genus level.
+
+### Bacilli (Class)
+### Bacillales (Order)
+### Bacillaceae (Family)
+### Bacillus (Genus)
 
 The pattern based approach adopted in this tool could help in molecular based taxonomic identification for other phyla predominant in particular niche, thereby assisting classification of unknowns at least at higher taxonomic levels (class and order).
 
